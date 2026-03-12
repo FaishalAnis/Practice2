@@ -1,4 +1,4 @@
-package com.subtract;
+package com.sub;
 
 public class Subtract {
 
