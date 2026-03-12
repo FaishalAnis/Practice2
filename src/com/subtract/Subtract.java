@@ -1,6 +1,6 @@
 package com.subtract;
 
-public class Demo {
+public class Subtract {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
